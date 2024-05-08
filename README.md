@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
   
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" src="https://links.kmhd.net/_app/immutable/assets/loading.21f2f606.gif" alt="loading..">
+
 
 # 💫 About Me:
 🌱 I’m currently learning JQuery,Node-js<br><br>💬 Ask me about Html,Css,Javascript,Flask<br><br>📫 How to reach me omkarpatil55531@gmail.com
