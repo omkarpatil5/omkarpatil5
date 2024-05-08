@@ -1,7 +1,7 @@
 
   <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
   
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A aspiring developer from India</h3>
 
 
 # 💫 About Me:
